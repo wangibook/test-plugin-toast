@@ -3,7 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import vueTotal from './plugin/toast'
+// import vueTotal from './plugin/toast'
+import vueTotal from 'toast'
 
 Vue.config.productionTip = false
 Vue.use(vueTotal)

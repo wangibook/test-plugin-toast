@@ -13,7 +13,7 @@ export default {
   name: 'App',
   data() {
     return {
-      testArr: [1,2,6]
+
     }
   },
   creted() {
